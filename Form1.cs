@@ -4,16 +4,10 @@ namespace Spaceshootergame_dotnetassignment
 {
     public partial class Form1 : Form
     {
-
         public Form1()
         {
-
             InitializeComponent();
             lbl_over.Hide();
-
-
-
-
         }
 
         bool right, left, space;
@@ -31,7 +25,7 @@ namespace Spaceshootergame_dotnetassignment
                         {
                             if (j.Bounds.IntersectsWith(i.Bounds))
                             {
-                                ///uncomment for enemy movement if required//
+                                
                                 int x;
                                 Random rnd = new Random();
                                 x = rnd.Next(0, 350);
@@ -51,14 +45,6 @@ namespace Spaceshootergame_dotnetassignment
                 lbl_over.Show();
                 lbl_over.BringToFront();
             }
-        }
-
-
-
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
         }
 
         void Star()
@@ -186,16 +172,6 @@ namespace Spaceshootergame_dotnetassignment
             Bullet_Movement();
             Star();
             Game_Result();
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click_1(object sender, EventArgs e)
-        {
 
         }
     }

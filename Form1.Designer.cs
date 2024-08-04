@@ -59,7 +59,6 @@
             player.SizeMode = PictureBoxSizeMode.AutoSize;
             player.TabIndex = 0;
             player.TabStop = false;
-            player.Click += pictureBox1_Click;
             // 
             // timer1
             // 
@@ -144,7 +143,6 @@
             llb_score.Size = new Size(143, 33);
             llb_score.TabIndex = 7;
             llb_score.Text = "Score: 0";
-            llb_score.Click += label1_Click;
             // 
             // lbl_over
             // 
@@ -156,7 +154,6 @@
             lbl_over.Size = new Size(237, 72);
             lbl_over.TabIndex = 8;
             lbl_over.Text = "Game Over";
-            lbl_over.Click += label1_Click_1;
             // 
             // label1
             // 
@@ -187,7 +184,7 @@
             Controls.Add(lbl_over);
             ForeColor = Color.RosyBrown;
             Name = "Form1";
-            Text = "Form1";
+            Text = "1006-Spacewars";
             KeyDown += Form1_KeyDown;
             KeyUp += Form1_KeyUp;
             ((System.ComponentModel.ISupportInitialize)player).EndInit();

@@ -15,3 +15,4 @@ C:\Users\Adwin Paulji\source\repos\Spaceshootergame-dotnetassignment\Spaceshoote
 C:\Users\Adwin Paulji\source\repos\Spaceshootergame-dotnetassignment\Spaceshootergame-dotnetassignment\obj\Debug\net8.0-windows\Spaceshootergame-dotnetassignment.pdb
 C:\Users\Adwin Paulji\source\repos\Spaceshootergame-dotnetassignment\Spaceshootergame-dotnetassignment\obj\Debug\net8.0-windows\Spaceshootergame-dotnetassignment.genruntimeconfig.cache
 C:\Users\Adwin Paulji\source\repos\Spaceshootergame-dotnetassignment\Spaceshootergame-dotnetassignment\obj\Debug\net8.0-windows\ref\Spaceshootergame-dotnetassignment.dll
+C:\Users\Adwin Paulji\source\repos\Spaceshootergame-dotnetassignment\Spaceshootergame-dotnetassignment\obj\Debug\net8.0-windows\Spaceshootergame-dotnetassignment.sourcelink.json

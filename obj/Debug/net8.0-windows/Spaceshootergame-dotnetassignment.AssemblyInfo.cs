@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spaceshootergame-dotnetassignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3275accafe67d2902132e1303ff23cdfc57833ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spaceshootergame-dotnetassignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spaceshootergame-dotnetassignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
