@@ -1,0 +1,5 @@
+C:\Users\Adwin Paulji\Desktop\Build Folder\Spaceshootergame-dotnetassignment.exe
+C:\Users\Adwin Paulji\Desktop\Build Folder\Spaceshootergame-dotnetassignment.dll
+C:\Users\Adwin Paulji\Desktop\Build Folder\Spaceshootergame-dotnetassignment.deps.json
+C:\Users\Adwin Paulji\Desktop\Build Folder\Spaceshootergame-dotnetassignment.runtimeconfig.json
+C:\Users\Adwin Paulji\Desktop\Build Folder\Spaceshootergame-dotnetassignment.pdb

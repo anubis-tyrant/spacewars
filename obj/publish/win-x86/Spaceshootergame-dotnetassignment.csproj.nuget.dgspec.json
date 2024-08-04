@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment.csproj",
+        "projectName": "Spaceshootergame-dotnetassignment",
+        "projectPath": "C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment.csproj",
+        "packagesPath": "C:\\Users\\Adwin Paulji\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\obj\\publish\\win-x86\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adwin Paulji\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows7.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

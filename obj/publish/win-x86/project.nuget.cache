@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rc51yj/rP3IBWFKupZtyOR9VMuN4Ex2E/1NRNjzAcMSUAVGwcq0GHzVTUX50HCdODWB14nfeWp7ZLKqByfTE0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adwin Paulji\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

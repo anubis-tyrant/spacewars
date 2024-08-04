@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5CE0F49-CE03-494C-AAD5-9E80343A24B8}|Spaceshootergame-dotnetassignment.csproj|c:\\users\\adwin paulji\\source\\repos\\spaceshootergame-dotnetassignment\\spaceshootergame-dotnetassignment\\spaceshootergame-dotnetassignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{D5CE0F49-CE03-494C-AAD5-9E80343A24B8}|Spaceshootergame-dotnetassignment.csproj|solutionrelative:spaceshootergame-dotnetassignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{D5CE0F49-CE03-494C-AAD5-9E80343A24B8}|Spaceshootergame-dotnetassignment.csproj|C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CE0F49-CE03-494C-AAD5-9E80343A24B8}|Spaceshootergame-dotnetassignment.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5CE0F49-CE03-494C-AAD5-9E80343A24B8}|Spaceshootergame-dotnetassignment.csproj|C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D5CE0F49-CE03-494C-AAD5-9E80343A24B8}|Spaceshootergame-dotnetassignment.csproj|C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D5CE0F49-CE03-494C-AAD5-9E80343A24B8}|Spaceshootergame-dotnetassignment.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5CE0F49-CE03-494C-AAD5-9E80343A24B8}|Spaceshootergame-dotnetassignment.csproj|C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5CE0F49-CE03-494C-AAD5-9E80343A24B8}|Spaceshootergame-dotnetassignment.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,18 +27,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Spaceshootergame-dotnetassignment",
-              "DocumentMoniker": "C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment.csproj",
-              "RelativeDocumentMoniker": "Spaceshootergame-dotnetassignment.csproj",
-              "ToolTip": "C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment.csproj",
-              "RelativeToolTip": "Spaceshootergame-dotnetassignment.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-04T14:35:46.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Adwin Paulji\\source\\repos\\Spaceshootergame-dotnetassignment\\Spaceshootergame-dotnetassignment\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -50,7 +34,8 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AQIAAIsAAAAAAAAAAAAMwJwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T14:22:35.963Z"
+              "WhenOpened": "2024-08-04T14:22:35.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
